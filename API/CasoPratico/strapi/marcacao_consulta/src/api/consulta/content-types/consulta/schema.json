@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "consultas",
+  "info": {
+    "singularName": "consulta",
+    "pluralName": "consultas",
+    "displayName": "consulta",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "estado": {
+      "type": "enumeration",
+      "enum": [
+        "ativo",
+        "inativo"
+      ]
+    },
+    "data_marcacao": {
+      "type": "date"
+    },
+    "data_consulta": {
+      "type": "date"
+    },
+    "medico": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::medico.medico",
+      "inversedBy": "consultas"
+    },
+    "paciente": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::paciente.paciente",
+      "inversedBy": "consultas"
+    }
+  }
+}
