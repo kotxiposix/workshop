@@ -1,0 +1,66 @@
+= Startup Namer
+:imagesdir: ../assets/images
+
+A intro project for learning the basics of Flutter applications development
+
+There's 2 parts for this project, in the firs part it will cover the creation of a simple mobile Flutter app, in the part 2 of the project we will add interactivity and page navigation.
+
+This project is part of the getting started materials from the Flutter documentation for more information about the Flutter framework, please visit the links on the reference section.
+
+## Set up Flutter environment
+- Flutter SDK
+- Code Editor
+
+Folow instalation and configurations steps on this links:
+
+> https://docs.flutter.dev/get-started/install
+
+> https://docs.flutter.dev/get-started/editor?tab=vscode
+
+
+- A device for testing 
+
+Follow instruction on setting up your device
+
+> https://docs.flutter.dev/get-started/install/macos#set-up-your-android-device
+    
+- A physical device (Android or iOS)
+- Emulators (Android or iOS)
+- A browser (Chrome is required for debugging)
+- Windows, Linux or macOS 
+
+Before starting up check with the command bellow to make sure everything is set up correctly:
+
+```bash
+flutter doctor
+```
+
+image::01_startup_namer_flutter_doctor_result1.png[]
+
+image::01_startup_namer_flutter_doctor_result2.png[]
+
+## Part I
+
+image::hello_world_part1.gif[width=250, role=center]
+
+The topics covered in this project are:
+
+- How to write a Flutter app that looks natural on iOS, Android, desktop (Windows, for example) and the web
+- Basic structure of a Flutter app
+- Finding and using packages to extend functionality
+- Using hot reload for a quicker development cycle
+- How to implement a stateful widget
+- How to create an infinite, lazily loaded list
+
+## Part II
+
+image::hello_world_part2.gif[width=250, role=center]
+
+- How to write a Flutter app that looks natural on iOS, Android, Windows, Linux, macOS, and the web
+- How to use hot reload for a quicker development cycle
+- How to add interactivity to a stateful widget
+- How to create and navigate to a second screen
+- How to change the look of an app using themes
+
+## References:
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0

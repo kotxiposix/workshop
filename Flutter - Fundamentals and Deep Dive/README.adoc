@@ -1,0 +1,267 @@
+= Flutter: FUNdamentals and Deep Dive
+:imagesdir: assets/images/
+
+## Session 1 → Fundamentals
+
+### 1 **Flutter FAQ**
+
+Why Flutter? Wait What’s Flutter? Is it that? Who build Flutter? What can i do with it? Why Dart?
+
+**Resources**
+
+Why Flutter uses Dart - A tour through the history of compilers, vms, trapilation untill key aspects of the language
+
+- https://developers.google.com/codelabs/from-java-to-dart#0[https://developers.google.com/codelabs/from-java-to-dart#0]
+
+Flutter Architeture
+
+- https://docs.flutter.dev/resources/architectural-overview[https://docs.flutter.dev/resources/architectural-overview]
+- https://docs.google.com/presentation/d/1cw7A4HbvM_Abv320rVgPVGiUP2msVs7tfGbkgdrTy0I/edit#slide=id.g70d668005_2_22[https://docs.google.com/presentation/d/1cw7A4HbvM_Abv320rVgPVGiUP2msVs7tfGbkgdrTy0I/edit#slide=id.g70d668005_2_22]
+
+Geting started with Flutter - Raywenderlich
+
+- https://www.raywenderlich.com/24499516-getting-started-with-flutter[https://www.raywenderlich.com/24499516-getting-started-with-flutter]
+
+### 2 **Dart and OOP Programing - A Quick Tour**
+
+Dart is all about OOP... If in Java everything is objects, in Flutter everything is widgets
+
+**Resources**
+
+Dart Cheatsheet
+  
+  - Intro: https://www.raywenderlich.com/4482580-dart-2-cheat-sheet-and-quick-reference-2019[https://www.raywenderlich.com/4482580-dart-2-cheat-sheet-and-quick-reference-2019]
+  - https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf[https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf]
+
+**Fundamentals of OOP**
+
+Object-oriented Programming in 7 minutes | Mosh
+
+- https://youtu.be/pTB0EiLXUC8[https://youtu.be/pTB0EiLXUC8]
+
+Intro to Object Oriented Programming - Crash Course
+
+- https://youtu.be/SiBw7os-_zI[https://youtu.be/SiBw7os-_zI]
+
+How to explain object-oriented programming concepts to a 6-year-old
+
+- https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/[https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/]
+
+Introduction to object-oriented programming with Python
+
+- https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/[https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/]
+
+**Dart Fundamentals**
+
+Dart for Java Developers - Codelab
+
+- https://developers.google.com/codelabs/from-java-to-dart#0[https://developers.google.com/codelabs/from-java-to-dart#0]
+
+Dart cheatsheet - Codelab
+
+- https://dart.dev/codelabs/dart-cheatsheet[https://dart.dev/codelabs/dart-cheatsheet]
+
+Dart Pad - An online tool to progam in Dart
+
+- https://dartpad.dev/?id=0df636e00f348bdec2bc1c8ebc7daeb1[https://dartpad.dev/?id=0df636e00f348bdec2bc1c8ebc7daeb1]
+
+### 3 **JS to Dart - A Quick Tour**
+
+Coming from JS? Let's see that Dart is not that monster
+
+**Resources**
+
+Introduction to Dart for JavaScript Developers
+
+- https://docs.flutter.dev/get-started/flutter-for/react-native-devs#introduction-to-dart-for-javascript-developers[https://docs.flutter.dev/get-started/flutter-for/react-native-devs#introduction-to-dart-for-javascript-developers]
+
+### 4 OPTIONAL - **Dart - A Quick Tour - Recap**
+
+Wallktrhougth labs - hands on review
+
+- https://dart.dev/tutorials/server/cmdline[https://dart.dev/tutorials/server/cmdline]
+
+- https://dev.to/stack-labs/cli-applications-made-easy-with-dart-dcli-8af[https://dev.to/stack-labs/cli-applications-made-easy-with-dart-dcli-8af]
+
+### 5 **Setup and Installation & Intro to Flutter Development**
+
+How to setup the environment for Flutter Development
+
+image::hello_world_part1.gif[width=250, role=center]
+
+**Resources**
+
+Labs - First Flutter App part 1
+
+- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1[https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1]
+
+About Camel, Pascal and Snake Case 
+
+- https://khalilstemmler.com/blogs/camel-case-snake-case-pascal-case/#:~:text=Camel case (ex%3A camelCase),names%2C interfaces%2C and namespaces[https://khalilstemmler.com/blogs/camel-case-snake-case-pascal-case/#:~:text=Camel%20case%20(ex%3A%20camelCase),names%2C%20interfaces%2C%20and%20namespaces].
+
+Flutter Codelabs Solutions
+
+- https://github.com/flutter/codelabs[https://github.com/flutter/codelabs]
+
+### 6 The Hello World
+
+The Getting Started, building your first Flutter App
+
+image::hello_world_part2.gif[width=250, role=center]
+
+**Resources**
+
+Labs - Write Your First Flutter App Part2
+
+- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0[https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0]
+
+Flutter Widgets
+
+- https://docs.flutter.dev/development/ui/widgets-intro[https://docs.flutter.dev/development/ui/widgets-intro]
+
+Flutter Widgets 101
+
+- https://www.youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd[https://www.youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd]
+
+Decoding Flutter
+
+- https://youtu.be/rIaaH87z1-g[https://youtu.be/rIaaH87z1-g]
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU1fRV40Ec8200rX6OuQkmnl[https://www.youtube.com/playlist?list=PLjxrf2q8roU1fRV40Ec8200rX6OuQkmnl]
+
+### 7 Flutter: The Basics - Recap
+
+Wallktrhougth labs - hands on review
+
+**Resources**
+
+Flutter for React Native developers
+
+- https://docs.flutter.dev/get-started/flutter-for/react-native-devs[https://docs.flutter.dev/get-started/flutter-for/react-native-devs]
+
+Flutter for web developers
+
+- https://docs.flutter.dev/get-started/flutter-for/web-devs[https://docs.flutter.dev/get-started/flutter-for/web-devs]
+
+## Session 2 → Deep Dive
+
+### 8 **Hands On & Mini Projects**
+
+Putting it all together and building something cool
+
+#### **1 Fooderlich**
+
+Building Layouts and usefull widgets
+
+[cols="a,a", frame=none, grid=none, role=left, width=100%]
+|===
+|image::fooderlich_screen1.png[width=250, role=left]
+|image::fooderlish_screen2.png[width=250, float=left, align=center]
+|===
+
+{sp} +
+
+#### **2 Pokedex**
+
+Network and get data from API’s
+
+[cols="a,a", frame=none, grid=none, role=left, width=100%]
+|===
+|image::pokedex_screen1.png[width=250, role=left]
+|image::pokedex_screen2.png[width=250, role=center]
+|===
+
+{sp} +
+
+#### **3 What else?**
+
+A little taste of the web
+
+image::andela_hero_web_clone.png[width=500, role=center]
+
+**Resources**
+
+Fluttter Apprentice
+
+- https://www.raywenderlich.com/books/flutter-apprentice/v2.0/chapters/3-basic-widgets[https://www.raywenderlich.com/books/flutter-apprentice/v2.0/chapters/3-basic-widgets]
+
+Raywenderlich: Flutter Networking
+
+- https://www.raywenderlich.com/5896601-flutter-networking-tutorial-getting-started[https://www.raywenderlich.com/5896601-flutter-networking-tutorial-getting-started]
+
+FLutter Apprentice Book Clube
+
+- https://youtube.com/watch?v=vDOsMxTbfoI[https://youtube.com/watch?v=vDOsMxTbfoI]
+
+### 9 **Deployment**
+
+How can we build and deploy a Flutter app? ... Well, just the steps, we can’t do it all in one day... unfortunately
+
+**Resources**
+
+Flutte Apprentice: Capter Deployment
+
+- https://www.raywenderlich.com/books/flutter-apprentice/v2.0/chapters/16-platform-specific-app-assets[https://www.raywenderlich.com/books/flutter-apprentice/v2.0/chapters/16-platform-specific-app-assets]
+
+Flutte and firebase app distribution
+
+- https://medium.flutterdevs.com/automation-flutter-with-github-actions-firebase-app-distribution-bd7193f0e0e8[https://medium.flutterdevs.com/automation-flutter-with-github-actions-firebase-app-distribution-bd7193f0e0e8]
+
+### 10 **What else?**
+
+What else more is out there? Let's find out on the next episodes... not yet, guess what... there is more to do on the web
+
+**Resources**
+
+Code lab: Write your first Flutter app on the web
+
+- https://docs.flutter.dev/get-started/codelab-web[https://docs.flutter.dev/get-started/codelab-web]
+
+Using a plugin with a Flutter web app - FIrebase, Github star counter...
+
+- https://codelabs.developers.google.com/codelabs/web-url-launcher#5[https://codelabs.developers.google.com/codelabs/web-url-launcher#5]
+
+Building Games
+
+- https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started[Building Games in Flutter with Flame: Getting Started]
+
+### 11 **Challenge...**
+
+We saw how to develop for mobile and Web
+Now is your turn to share with us something from the desktop… yes it’s possible too!
+
+**Resources**
+
+Write a Flutter desktop application - Using Github API with OAuth2 Flow and Creating Flutter Plugins 💪
+
+* https://codelabs.developers.google.com/codelabs/flutter-github-client#0[https://codelabs.developers.google.com/codelabs/flutter-github-client#0]
+
+* Demo of FLutter slides
+  ** https://flutterawesome.com/flutter-slides-utilizes-flutter-desktop-embedding-to-provide-a-simple-slide-presentation-app/[https://flutterawesome.com/flutter-slides-utilizes-flutter-desktop-embedding-to-provide-a-simple-slide-presentation-app/]
+  ** https://verygood.ventures/success-stories/flutter-slides[https://verygood.ventures/success-stories/flutter-slides]
+
+### 12 A look into the community
+
+Resources and things you can find
+
+* The flutter roadmap
+
+  ** https://flutter.dev/learn[Flutter Learn Roadmap]
+
+* The community
+
+** https://www.youtube.com/channel/UCNUzIz3TsiHSbgn_66kLIww[Flutter Community]
+
+* The Boring Flutter Show
+* The widget of the week
+* animations community events
+* #30daysofcode
+                
+> **Sometimes isn’t just about you, or coding but also being part of the community, Incredibly sometimes on the community you can find things that is not on google.**
+
+### So what else can i do with Flutter
+* Flutter Puzzel Hack intro Video
+- https://flutterhack.devpost.com/[https://flutterhack.devpost.com/]
+* Flutter Puzzel Hack Galery
+- https://devpost.com/software/beautiful-puzzle[https://devpost.com/software/beautiful-puzzle]
+- https://devpost.com/software/flutter-rush-puzzle[https://devpost.com/software/flutter-rush-puzzle]
+- https://devpost.com/software/the-werewolves-escape[https://devpost.com/software/the-werewolves-escape]

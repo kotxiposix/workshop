@@ -1,0 +1,9 @@
+= Pokedex
+:imagesdir: ../assets/images
+Network and get data from API’s
+
+[cols="a,a", frame=none, grid=none, role=left, width=100%]
+|===
+|image::pokedex_screen1.png[width=250, role=left]
+|image::pokedex_screen2.png[width=250, role=center]
+|===
