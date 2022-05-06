@@ -40,10 +40,11 @@
 
 ## Wireframing and Prototyping on Figma
     
-    - wireFrameing tools 
+    - Fundamentals/methods
+    - Interactive wireframes Template
     - Prototyping on Figma
 
 ## challenges
-    - Ideialize a wireframe for a website and prototype it on Figma.
+    - Idealize a wireframe for a website and prototype it on Figma.
     
 
