@@ -2,47 +2,48 @@
 
 ## Ux/Ui Design Fundamentals
 
-    * [Introduction](#introduction)
-    * Graphic Design
-    * User Interface Design
-    * User Experience Design
-
-    * [Graphic Design](#graphic-design)
-    * [User Interface Design](#user-interface-design)
-    * [User Experience Design](#user-experience-design)
+    - Graphic Design
+    - User Interface Design
+    - User Experience Design
 
 ## Basic Design Principles
 
-    * [Principles](#principles) - Design Principles
-    * Colors
-    * Typography
-    * [Fonts](#fonts)
-    * [Layout](#layout)
-    * [Content](#content)
-    * Contrast
-    * [Hierarchy](#hierarchy)
-    * Enfases
-    * Repetition
-    * [Spacing](#spacing)
-    * [Typography](#typography)
+    *Design Principles*
+    - Emphasis
+    - Balance
+    - Unity
+    - Contrast
+    - Repetition
+    - Scale
+    - Hierarchy
+    - Color
+    - Typography
+
+    *Some Exemples*
     
 ## Design Thinking Process
 
-    * [Empathy](#empathy)
-    * [Research](#research)
-    * [Ideation](#ideation)
-    * [Prototyping](#prototyping)
-    * [Wireframing](#wireframing)
-    * [Design](#design)
-    * [Testing](#testing)
-    * [Deployment](#deployment)
+    - Emphasize
+    - Define
+    - Ideate
+    - Prototype
+    - Test
+  
+    *UX Design não é sobre interfaces bonitonas*
 
+## Design Tools
+    - Adobe Xd
+    - Photoshop
+    - Figma (All in one tool)
 
 ### Pratices
 
 ## Wireframing and Prototyping on Figma
+    
+    - wireFrameing tools 
+    - Prototyping on Figma
 
-##challenges
-
+## challenges
+    - Ideialize a wireframe for a website and prototype it on Figma.
     
 
