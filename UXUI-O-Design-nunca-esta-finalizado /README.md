@@ -1,3 +1,5 @@
+![2_sandro-workshop-banner](https://user-images.githubusercontent.com/79278824/167481657-e6e0129b-d69b-4d09-9d6f-bf35df4984f2.jpg)
+
 ### Workshop Roadmap
 
 ## Ux/Ui Design Fundamentals
