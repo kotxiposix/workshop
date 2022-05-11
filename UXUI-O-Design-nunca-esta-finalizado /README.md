@@ -23,7 +23,7 @@
 
     *Some Exemples*
     
-## Design Thinking Process
+## Design Thinking Process Methodology
 
     - Emphasize
     - Define
