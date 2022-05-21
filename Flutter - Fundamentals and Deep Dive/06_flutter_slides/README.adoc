@@ -1,0 +1,5 @@
+# Flutter Slides
+
+* Demo of FLutter slides
+  ** https://flutterawesome.com/flutter-slides-utilizes-flutter-desktop-embedding-to-provide-a-simple-slide-presentation-app/[https://flutterawesome.com/flutter-slides-utilizes-flutter-desktop-embedding-to-provide-a-simple-slide-presentation-app/]
+  ** https://verygood.ventures/success-stories/flutter-slides[https://verygood.ventures/success-stories/flutter-slides]

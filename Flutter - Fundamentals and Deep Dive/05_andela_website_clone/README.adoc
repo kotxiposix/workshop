@@ -1,0 +1,4 @@
+= Cloning a Website
+:imagesdir: ../assets/images/
+
+image::andela_hero_web_clone.png[width=500, role=center]

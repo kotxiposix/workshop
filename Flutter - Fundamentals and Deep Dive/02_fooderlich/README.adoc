@@ -1,0 +1,10 @@
+= Fooderlich
+:imagesdir: ../assets/images
+
+Building Layouts and usefull widgets
+
+[cols="a,a", frame=none, grid=none, role=left, width=100%]
+|===
+|image::fooderlich_screen1.png[width=250, role=left]
+|image::fooderlish_screen2.png[width=250, float=left, align=center]
+|===
